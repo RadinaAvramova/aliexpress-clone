@@ -3,7 +3,7 @@
 ## App Setup (localhost)
 
 ```
-git clone https://github.com/John-Weeks-Dev/AliExpress-clone.git
+git clone https://github.com/RadinaAvramova/AliExpress-clone.git
 
 cp .env.example .env
 
