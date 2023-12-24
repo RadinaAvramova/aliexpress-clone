@@ -1,2 +1,1 @@
-# aliexpress-clone
-aliexpress-clone
+Aliexpress Clone
